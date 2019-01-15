@@ -1,4 +1,4 @@
 # neupanesuman.github.io
-my my website
+my simple website
 
-Thanks a lot, my friend [Madhav](https://poudelmadhav.com.np).
+Thanks a lot, my friend [Madhav](@madhav).
