@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "madhav-firebase",
+    "production": "madhav-firebase"
+  }
+}
